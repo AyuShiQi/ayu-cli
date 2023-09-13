@@ -2,10 +2,11 @@
 bin-debug/
 bin-release/
 [Oo]bj/
-[Bb]in/
+# [Bb]in/
 
 node_modules
 dist
+ayu-project
 
 # Other files and folders
 .settings/
